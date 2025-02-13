@@ -3,7 +3,7 @@ Author: Jason Shi
 Date: 10-01-2025 01:29:55
 Last Editors: Jason
 Contact Last Editors: D23090120503@cityu.edu.mo
-LastEditTime: 10-01-2025 01:42:50
+LastEditTime: 13-02-2025 21:14:03
 '''
 
 # integer
@@ -59,6 +59,4 @@ import cmath
 # sqrt is a function in cmath, used to calculate the square root of a number
 c3 = cmath.sqrt(-1)
 print(c3)
-
-
 
