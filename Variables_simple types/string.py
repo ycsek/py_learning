@@ -3,7 +3,7 @@ Author: Jason Shi
 Date: 13-02-2025 21:14:16
 Last Editors: Jason
 Contact Last Editors: D23090120503@cityu.edu.mo
-LastEditTime: 13-02-2025 23:49:42
+LastEditTime: 02-03-2025 12:27:16
 '''
 
 # keyword in python
@@ -144,3 +144,11 @@ print("City" not in g)
 print(len(g))
 # get lenght of city 
 print(len("City"))
+
+# Capitalize and lower
+print(g.capitalize()) # Capitalize the first character
+print(g.lower())    # Lowercase all characters
+print(g.upper())    # Uppercase all characters
+print(g.title())    # Capitalize the first character of each word
+
+
